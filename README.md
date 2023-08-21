@@ -1,2 +1,1 @@
 # prometheus-monitoring
-prometheus-monitoring
